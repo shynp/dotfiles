@@ -1,0 +1,7 @@
+[user]
+	name = Shayan Patel
+	email = shayanp@seas.upenn.edu
+[color]
+	ui = true
+[push]
+	default = simple

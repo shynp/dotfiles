@@ -1,0 +1,12 @@
+set nocompatible
+set tabstop=2
+set shiftwidth=2
+set number
+set ls=2
+set ruler 
+set history=50
+set backspace=indent,eol,start
+set bg=light
+set backup
+set backupdir=~/.backup
+set directory=~/.vimswap
